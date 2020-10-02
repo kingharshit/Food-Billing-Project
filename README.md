@@ -1,4 +1,5 @@
 # Food-Billing-Project
 Python Project Using Tkinter.
 Hello,
-First run ligin then sign up.
+First run ligin python file.
+Then sign up.
